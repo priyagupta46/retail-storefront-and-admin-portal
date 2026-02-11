@@ -1,5 +1,5 @@
 # RetailHub - Full-Stack Retail System
-
+.
 A complete retail system with a customer storefront and admin portal built with React, Node.js, Express, and MongoDB.
 
 ## 📋 Features
